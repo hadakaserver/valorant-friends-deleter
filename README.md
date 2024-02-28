@@ -9,4 +9,4 @@ Python3をPCにダウンロードしてください。
 実行してしばらくするとロゴが出るはずです。出ない場合はPythonの環境を再確認してみてください
 ### valorantを実行
 右側のフレンド欄を画像の状態にし、ウィンドウフルスクリーンにしてください。
-![pic](https://imgur.com/abl6GZa)
+![pic](https://i.ibb.co/3swsk9J/60-Ovhm-Xvo-EONWp-M6.png)
