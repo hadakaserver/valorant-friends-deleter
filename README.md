@@ -1,0 +1,2 @@
+# VALORANT friends deleter
+名前の通りvalorantのフレンドを自動削除するツールです。身内用に作ったのでアップデートする気はありません
