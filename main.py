@@ -31,7 +31,7 @@ while i < z:
     c.moveTo(800, 620)
     c.leftClick(800, 620)
     print(f"{ERROR}フレンド削除処理を行いました。")
-    time.sleep(1.3)
+    time.sleep(1.6)
     i += 1
     
 else:
